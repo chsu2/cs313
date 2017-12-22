@@ -1,0 +1,2 @@
+> Sequence of coin flips using 3 coins
+HTTHTTTHHT

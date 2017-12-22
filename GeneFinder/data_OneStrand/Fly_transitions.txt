@@ -1,0 +1,5 @@
+	.Intergenic	StartCodons	StopCodons	Codons
+.Intergenic	0.9996575982966235	3.424017033765412E-4	0.0	0.0
+StartCodons	0.0	0.0	0.0	1.0
+StopCodons	1.0	0.0	0.0	0.0
+Codons	0.0	0.0	2.9171528588098014E-4	0.999708284714119

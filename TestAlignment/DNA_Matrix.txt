@@ -1,0 +1,7 @@
+> DNA Scoring Matrix
+
+    A  C  G  T
+A   5 -4 -1 -4
+C  -4  5 -4 -1
+G  -1 -4  5 -4
+T  -4 -1 -4  5

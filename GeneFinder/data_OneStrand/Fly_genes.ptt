@@ -1,0 +1,241 @@
+Drosophila melanogaster chromosome 4, complete sequence - 1..1351857
+238 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+24053..25621	+	317	221329563	JYalpha	Dmel_CG17923	-	-	JYalpha
+53644..64050	-	2051	24638494	plexB	Dmel_CG17245	-	-	plexin B
+68620..76494	-	1397	45549239	ci	Dmel_CG2125	-	-	cubitus interruptus
+86899..87806	-	268	17864162	RpS3A	Dmel_CG2168	-	-	ribosomal protein S3A, isoform A
+86899..87712	-	218	24638499	RpS3A	Dmel_CG2168	-	-	ribosomal protein S3A, isoform B
+86899..87491	-	163	24638501	RpS3A	Dmel_CG2168	-	-	ribosomal protein S3A, isoform D
+93056..129118	+	747	62473076	pan	Dmel_CG34403	-	-	pangolin, isoform H
+93056..129118	+	751	24638513	pan	Dmel_CG34403	-	-	pangolin, isoform E
+93056..129118	+	751	24638511	pan	Dmel_CG34403	-	-	pangolin, isoform D
+93056..129118	+	751	28558732	pan	Dmel_CG34403	-	-	pangolin, isoform B
+93056..129118	+	751	24638509	pan	Dmel_CG34403	-	-	pangolin, isoform C
+93056..129118	+	751	24638515	pan	Dmel_CG34403	-	-	pangolin, isoform F
+93056..129118	+	751	24638507	pan	Dmel_CG34403	-	-	pangolin, isoform A
+93056..129118	+	751	24638517	pan	Dmel_CG34403	-	-	pangolin, isoform G
+93056..120180	+	410	85724736	pan	Dmel_CG34403	-	-	pangolin, isoform I
+111840..129118	+	1192	161076317	pan	Dmel_CG34403	-	-	pangolin, isoform J
+137495..150052	-	1549	28558754	Ank	Dmel_CG1651	-	-	ankyrin, isoform B
+137495..150052	-	1549	28558756	Ank	Dmel_CG1651	-	-	ankyrin, isoform A
+137495..150052	-	1549	28558750	Ank	Dmel_CG1651	-	-	ankyrin, isoform C
+137495..150052	-	1549	28558752	Ank	Dmel_CG1651	-	-	ankyrin, isoform D
+137495..150052	-	1549	281359519	Ank	Dmel_CG1651	-	-	ankyrin, isoform E
+137495..150052	-	1549	281359521	Ank	Dmel_CG1651	-	-	ankyrin, isoform F
+155155..163421	+	1451	161076319	CG32000	Dmel_CG32000	-	-	CG32000, isoform H
+155155..160522	+	658	24638528	CG32000	Dmel_CG32000	-	-	CG32000, isoform D
+155344..163421	+	1388	45552131	CG32000	Dmel_CG32000	-	-	CG32000, isoform G
+155344..160522	+	595	24638530	CG32000	Dmel_CG32000	-	-	CG32000, isoform E
+157379..163421	+	1314	45551167	CG32000	Dmel_CG32000	-	-	CG32000, isoform A
+157379..163421	+	1314	45551169	CG32000	Dmel_CG32000	-	-	CG32000, isoform B
+157379..160522	+	521	24638534	CG32000	Dmel_CG32000	-	-	CG32000, isoform F
+157552..160522	+	497	24638538	CG32000	Dmel_CG32000	-	-	CG32000, isoform C
+172377..173894	+	443	24638540	CG32006	Dmel_CG32006	-	-	CG32006
+175405..176529	-	148	24638542	CG31997	Dmel_CG31997	-	-	CG31997
+179844..196605	-	4056	85724738	CG33978	Dmel_CG33978	-	-	CG33978
+198067..199955	-	312	24638544	CG2219	Dmel_CG2219	-	-	CG2219
+205141..209805	-	730	24638548	CG2316	Dmel_CG2316	-	-	CG2316, isoform B
+205141..209805	-	730	24638556	CG2316	Dmel_CG2316	-	-	CG2316, isoform G
+205141..209805	-	730	24638546	CG2316	Dmel_CG2316	-	-	CG2316, isoform A
+205141..209805	-	730	24638554	CG2316	Dmel_CG2316	-	-	CG2316, isoform E
+205141..209805	-	730	24638552	CG2316	Dmel_CG2316	-	-	CG2316, isoform D
+205141..209805	-	730	24638550	CG2316	Dmel_CG2316	-	-	CG2316, isoform C
+205141..209244	-	543	24638558	CG2316	Dmel_CG2316	-	-	CG2316, isoform F
+218504..225326	-	1459	24638560	CG31998	Dmel_CG31998	-	-	CG31998
+231081..233641	+	271	24638563	Crk	Dmel_CG1587	-	-	Crk, isoform C
+231081..233641	+	271	21356917	Crk	Dmel_CG1587	-	-	Crk, isoform A
+231081..233641	+	253	24638565	Crk	Dmel_CG1587	-	-	Crk, isoform B
+235731..246460	-	917	28558748	CG31999	Dmel_CG31999	-	-	CG31999
+248631..251025	+	463	45550873	yellow-h	Dmel_CG1629	-	-	yellow-h
+252580..266389	+	743	24638571	CG1674	Dmel_CG1674	-	-	CG1674, isoform B
+252580..266389	+	884	281359525	CG1674	Dmel_CG1674	-	-	CG1674, isoform E
+252580..266389	+	884	281359527	CG1674	Dmel_CG1674	-	-	CG1674, isoform F
+252580..266389	+	884	281359529	CG1674	Dmel_CG1674	-	-	CG1674, isoform H
+252580..266389	+	589	281359531	CG1674	Dmel_CG1674	-	-	CG1674, isoform I
+252580..266389	+	694	281359533	CG1674	Dmel_CG1674	-	-	CG1674, isoform J
+252580..261503	+	264	45552133	CG1674	Dmel_CG1674	-	-	CG1674, isoform D
+270225..273579	-	294	161076321	dpr7	Dmel_CG33481	-	-	dpr7, isoform C
+270225..272142	-	209	161076323	dpr7	Dmel_CG33481	-	-	dpr7, isoform D
+270656..272142	-	120	45552137	dpr7	Dmel_CG33481	-	-	dpr7, isoform B
+276143..283264	+	1137	221329567	RhoGAP102A	Dmel_CG42316	-	-	RhoGAP102A, isoform E
+276143..282755	+	1074	221329565	RhoGAP102A	Dmel_CG42316	-	-	RhoGAP102A, isoform C
+291076..296286	-	766	116008551	NfI	Dmel_CG2380	-	-	nuclear factor I
+300765..325802	-	416	62484395	Syt7	Dmel_CG2381	-	-	Syt7, isoform A
+300765..325802	-	416	62484397	Syt7	Dmel_CG2381	-	-	Syt7, isoform E
+300765..325802	-	416	62473087	Syt7	Dmel_CG2381	-	-	Syt7, isoform G
+300765..303349	-	283	62484516	Syt7	Dmel_CG2381	-	-	Syt7, isoform F
+301052..325802	-	327	45551172	Syt7	Dmel_CG2381	-	-	Syt7, isoform B
+301052..325802	-	327	221329569	Syt7	Dmel_CG2381	-	-	Syt7, isoform H
+328850..330815	+	414	24638591	Rad23	Dmel_CG1836	-	-	Rad23, isoform A
+329204..330815	+	343	24638593	Rad23	Dmel_CG1836	-	-	Rad23, isoform B
+333416..334508	-	309	45550876	CG2177	Dmel_CG2177	-	-	CG2177, isoform A
+333416..334472	-	297	221329571	CG2177	Dmel_CG2177	-	-	CG2177, isoform C
+333416..334079	-	201	45552143	CG2177	Dmel_CG2177	-	-	CG2177, isoform B
+337043..340425	+	147	24638597	CG32850	Dmel_CG32850	-	-	CG32850
+349833..376092	-	1206	281359535	PMCA	Dmel_CG42314	-	-	plasma membrane calcium ATPase, isoform I
+349833..376092	-	1183	281359539	PMCA	Dmel_CG42314	-	-	plasma membrane calcium ATPase, isoform K
+349833..376092	-	1206	281359541	PMCA	Dmel_CG42314	-	-	plasma membrane calcium ATPase, isoform L
+352191..376092	-	1255	281359537	PMCA	Dmel_CG42314	-	-	plasma membrane calcium ATPase, isoform J
+352191..376092	-	1255	281359543	PMCA	Dmel_CG42314	-	-	plasma membrane calcium ATPase, isoform M
+355667..376092	-	1120	281359545	PMCA	Dmel_CG42314	-	-	plasma membrane calcium ATPase, isoform N
+381317..393018	+	1500	24638607	Hcf	Dmel_CG1710	-	-	host cell factor, isoform C
+381317..393018	+	1500	24638605	Hcf	Dmel_CG1710	-	-	host cell factor, isoform B
+381317..393018	+	1500	24638603	Hcf	Dmel_CG1710	-	-	host cell factor, isoform A
+381317..393018	+	1500	45552145	Hcf	Dmel_CG1710	-	-	host cell factor, isoform D
+396589..412157	-	1150	45552147	CG2052	Dmel_CG2052	-	-	CG2052, isoform A
+396589..412157	-	1140	45551181	CG2052	Dmel_CG2052	-	-	CG2052, isoform B
+458012..464019	-	1469	21356901	lgs	Dmel_CG2041	-	-	legless
+467546..473825	+	405	24638614	CaMKI	Dmel_CG1495	-	-	Calcium/calmodulin-dependent protein kinase I, isoform B
+467546..473825	+	405	17975557	CaMKI	Dmel_CG1495	-	-	Calcium/calmodulin-dependent protein kinase I, isoform G
+467546..473825	+	405	24638618	CaMKI	Dmel_CG1495	-	-	Calcium/calmodulin-dependent protein kinase I, isoform E
+467546..473825	+	405	24638612	CaMKI	Dmel_CG1495	-	-	Calcium/calmodulin-dependent protein kinase I, isoform A
+467546..473825	+	405	24638616	CaMKI	Dmel_CG1495	-	-	Calcium/calmodulin-dependent protein kinase I, isoform C
+470935..473825	+	284	24638623	CaMKI	Dmel_CG1495	-	-	Calcium/calmodulin-dependent protein kinase I, isoform H
+470935..473825	+	284	24638621	CaMKI	Dmel_CG1495	-	-	Calcium/calmodulin-dependent protein kinase I, isoform D
+480647..487295	-	1406	24638625	bip2	Dmel_CG2009	-	-	bip2
+492915..502462	-	1349	281359547	Asator	Dmel_CG11533	-	-	asator, isoform D
+493702..502462	-	1262	281359549	Asator	Dmel_CG11533	-	-	asator, isoform E
+495511..501888	-	811	281359551	Asator	Dmel_CG11533	-	-	asator, isoform F
+542130..559180	+	3005	24638633	zfh2	Dmel_CG1449	-	-	Zn finger homeodomain 2
+566289..574202	-	1738	21356805	Thd1	Dmel_CG1981	-	-	Thd1
+580884..586382	+	274	24638638	Pur-alpha	Dmel_CG1507	-	-	Purine-rich binding protein-alpha, isoform A
+580884..586382	+	275	24638636	Pur-alpha	Dmel_CG1507	-	-	Purine-rich binding protein-alpha, isoform B
+580884..586382	+	274	24638640	Pur-alpha	Dmel_CG1507	-	-	Purine-rich binding protein-alpha, isoform C
+580906..586382	+	260	24638642	Pur-alpha	Dmel_CG1507	-	-	Purine-rich binding protein-alpha, isoform D
+588993..591321	-	468	24638644	CG1970	Dmel_CG1970	-	-	CG1970
+594375..597948	+	652	24638646	Ephrin	Dmel_CG1862	-	-	ephrin, isoform A
+594375..597948	+	652	21356807	Ephrin	Dmel_CG1862	-	-	ephrin, isoform B
+594375..597948	+	652	24638649	Ephrin	Dmel_CG1862	-	-	ephrin, isoform C
+594375..597948	+	652	24638651	Ephrin	Dmel_CG1862	-	-	ephrin, isoform D
+604452..609576	+	606	21356809	CG1909	Dmel_CG1909	-	-	CG1909, isoform A
+604452..609576	+	606	24638654	CG1909	Dmel_CG1909	-	-	CG1909, isoform B
+621730..627328	-	1081	24638658	onecut	Dmel_CG1922	-	-	onecut
+632029..640984	+	1080	62484405	Eph	Dmel_CG1511	-	-	Eph receptor tyrosine kinase, isoform A
+632029..640984	+	1096	62484190	Eph	Dmel_CG1511	-	-	Eph receptor tyrosine kinase, isoform C
+632029..640984	+	1080	62484407	Eph	Dmel_CG1511	-	-	Eph receptor tyrosine kinase, isoform E
+632029..640860	+	1080	62484403	Eph	Dmel_CG1511	-	-	Eph receptor tyrosine kinase, isoform D
+632054..640984	+	1047	62484409	Eph	Dmel_CG1511	-	-	Eph receptor tyrosine kinase, isoform B
+632054..640880	+	1005	281359557	Eph	Dmel_CG1511	-	-	Eph receptor tyrosine kinase, isoform F
+643997..646210	-	701	17864174	mav	Dmel_CG1901	-	-	maverick, isoform A
+643997..645406	-	433	62473127	mav	Dmel_CG1901	-	-	maverick, isoform B
+643997..645406	-	433	221329585	mav	Dmel_CG1901	-	-	maverick, isoform C
+650462..655137	+	636	45550877	CG1732	Dmel_CG1732	-	-	CG1732, isoform A
+650462..654676	+	508	45551183	CG1732	Dmel_CG1732	-	-	CG1732, isoform B
+656934..667146	-	899	116007112	CG9935	Dmel_CG9935	-	-	CG9935, isoform B
+656934..667146	-	871	116007114	CG9935	Dmel_CG9935	-	-	CG9935, isoform C
+660207..667146	-	669	24638677	CG9935	Dmel_CG9935	-	-	CG9935, isoform A
+670883..678963	-	1384	24638685	gw	Dmel_CG31992	-	-	gawky, isoform D
+670883..678963	-	1384	62473147	gw	Dmel_CG31992	-	-	gawky, isoform G
+670883..678963	-	1384	62473137	gw	Dmel_CG31992	-	-	gawky, isoform H
+670883..678963	-	1384	24638687	gw	Dmel_CG31992	-	-	gawky, isoform E
+670883..678963	-	1384	24638681	gw	Dmel_CG31992	-	-	gawky, isoform B
+670883..678963	-	1384	24638689	gw	Dmel_CG31992	-	-	gawky, isoform F
+670883..678963	-	1384	24638683	gw	Dmel_CG31992	-	-	gawky, isoform C
+670883..678963	-	1384	24638679	gw	Dmel_CG31992	-	-	gawky, isoform A
+684327..690076	+	767	24638691	Slip1	Dmel_CG1783	-	-	Slip1
+701335..706666	+	628	62484332	CG11360	Dmel_CG11360	-	-	CG11360
+712617..715015	-	598	24638695	myoglianin	Dmel_CG1838	-	-	myoglianin, isoform A
+712617..715015	-	598	17864176	myoglianin	Dmel_CG1838	-	-	myoglianin, isoform B
+712617..715015	-	598	24638698	myoglianin	Dmel_CG1838	-	-	myoglianin, isoform C
+712617..715015	-	598	24638700	myoglianin	Dmel_CG1838	-	-	myoglianin, isoform D
+725791..741548	+	838	24638702	ey	Dmel_CG1464	-	-	eyeless, isoform A
+725791..741548	+	898	62473159	ey	Dmel_CG1464	-	-	eyeless, isoform D
+728132..741548	+	857	62473168	ey	Dmel_CG1464	-	-	eyeless, isoform C
+734670..741548	+	624	24638704	ey	Dmel_CG1464	-	-	eyeless, isoform B
+746343..796175	+	8648	45552151	bt	Dmel_CG32019	-	-	bent, isoform C
+746343..796175	+	8933	281359561	bt	Dmel_CG32019	-	-	bent, isoform F
+749671..796175	+	8588	281359563	bt	Dmel_CG32019	-	-	bent, isoform G
+799453..807772	-	1483	24638708	MED26	Dmel_CG1793	-	-	mediator complex subunit 26, isoform A
+799453..807772	-	1483	24638710	MED26	Dmel_CG1793	-	-	mediator complex subunit 26, isoform B
+820197..820553	+	118	24638712	CG11231	Dmel_CG11231	-	-	CG11231
+821909..844225	-	618	62473177	Sox102F	Dmel_CG11153	-	-	Sox102F, isoform B
+821909..823938	-	580	24638714	Sox102F	Dmel_CG11153	-	-	Sox102F, isoform A
+857835..859634	-	599	24638716	CG11152	Dmel_CG11152	-	-	CG11152
+864173..864430	+	85	78706454	CG33797	Dmel_CG33797	-	-	CG33797
+876136..886892	-	1567	281359566	CG11148	Dmel_CG11148	-	-	CG11148, isoform D
+876136..886892	-	1567	281359568	CG11148	Dmel_CG11148	-	-	CG11148, isoform E
+876136..886892	-	1567	281359570	CG11148	Dmel_CG11148	-	-	CG11148, isoform F
+876136..886892	-	1574	281359572	CG11148	Dmel_CG11148	-	-	CG11148, isoform G
+876136..886892	-	1574	281359574	CG11148	Dmel_CG11148	-	-	CG11148, isoform H
+892119..923968	-	2871	24638720	unc-13	Dmel_CG2999	-	-	unc-13, isoform A
+892119..923968	-	2874	62484411	unc-13	Dmel_CG2999	-	-	unc-13, isoform C
+892119..913422	-	3183	24638724	unc-13	Dmel_CG2999	-	-	unc-13, isoform B
+927960..928382	-	117	24638728	CG32021	Dmel_CG32021	-	-	CG32021
+936118..950525	-	1666	161076325	eIF4G	Dmel_CG10811	-	-	eukaryotic translation initiation factor 4G, isoform A
+936118..950525	-	1919	161076327	eIF4G	Dmel_CG10811	-	-	eukaryotic translation initiation factor 4G, isoform B
+936118..950525	-	1666	221329589	eIF4G	Dmel_CG10811	-	-	eukaryotic translation initiation factor 4G, isoform C
+959056..967246	+	976	24638732	mGluRA	Dmel_CG11144	-	-	metabotropic glutamate receptor
+972465..978916	-	1002	45551184	CG32016	Dmel_CG32016	-	-	CG32016, isoform A
+972465..978657	-	1010	28558744	CG32016	Dmel_CG32016	-	-	CG32016, isoform B
+972465..978657	-	1010	28558745	CG32016	Dmel_CG32016	-	-	CG32016, isoform C
+972465..975457	-	499	24638742	CG32016	Dmel_CG32016	-	-	CG32016, isoform E
+972465..975457	-	499	24638744	CG32016	Dmel_CG32016	-	-	CG32016, isoform F
+972465..975457	-	499	24638740	CG32016	Dmel_CG32016	-	-	CG32016, isoform D
+983001..992756	-	770	281359576	CG11093	Dmel_CG11093	-	-	CG11093, isoform B
+983001..989627	-	764	281359578	CG11093	Dmel_CG11093	-	-	CG11093, isoform C
+1010878..1026786	+	543	45549245	toy	Dmel_CG11186	-	-	twin of eyeless
+1034985..1044097	-	1945	45551185	plexA	Dmel_CG11081	-	-	plexin A, isoform D
+1034985..1044097	-	1945	24638754	plexA	Dmel_CG11081	-	-	plexin A, isoform A
+1034985..1040551	-	1505	24638756	plexA	Dmel_CG11081	-	-	plexin A, isoform B
+1034985..1040551	-	1505	24638758	plexA	Dmel_CG11081	-	-	plexin A, isoform C
+1036217..1044097	-	419	85724744	plexA	Dmel_CG11081	-	-	plexin A, isoform E
+1049369..1049875	-	168	21356661	CG11077	Dmel_CG11077	-	-	CG11077
+1050597..1051436	-	279	45551186	CG11076	Dmel_CG11076	-	-	CG11076, isoform A
+1050597..1051130	-	177	21356815	CG11076	Dmel_CG11076	-	-	CG11076, isoform B
+1052516..1055039	+	505	24638766	ATPsyn-beta	Dmel_CG11154	-	-	ATP synthase-beta, isoform A
+1052516..1053852	+	127	24638768	ATPsyn-beta	Dmel_CG11154	-	-	ATP synthase-beta, isoform B
+1057904..1071145	-	490	45551188	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform A
+1057904..1071145	-	509	24638772	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform B
+1057904..1071145	-	530	62484414	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform D
+1057904..1071145	-	509	62484416	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform E
+1057904..1071145	-	516	62473187	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform G
+1057904..1071145	-	490	45549243	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform C
+1057904..1071145	-	490	281359585	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform H
+1057904..1071145	-	530	281359587	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform I
+1057904..1071145	-	531	281359589	CaMKII	Dmel_CG18069	-	-	Calcium/calmodulin-dependent protein kinase II, isoform J
+1078067..1081404	-	523	24638782	Zyx102EF	Dmel_CG32018	-	-	Zyx102EF, isoform G
+1078067..1081230	-	564	24638784	Zyx102EF	Dmel_CG32018	-	-	Zyx102EF, isoform A
+1078067..1081230	-	585	21355575	Zyx102EF	Dmel_CG32018	-	-	Zyx102EF, isoform B
+1078067..1081230	-	585	24638793	Zyx102EF	Dmel_CG32018	-	-	Zyx102EF, isoform E
+1078067..1081230	-	564	24638788	Zyx102EF	Dmel_CG32018	-	-	Zyx102EF, isoform F
+1078067..1081230	-	564	24638786	Zyx102EF	Dmel_CG32018	-	-	Zyx102EF, isoform D
+1078067..1081230	-	585	24638791	Zyx102EF	Dmel_CG32018	-	-	Zyx102EF, isoform C
+1085734..1096740	+	3351	24638795	Rfabg	Dmel_CG11064	-	-	Retinoid- and fatty acid-binding glycoprotein
+1098513..1103752	-	946	24638797	Actbeta	Dmel_CG11062	-	-	Activin-beta
+1112912..1132077	+	844	45549241	sv	Dmel_CG11049	-	-	shaven, isoform A
+1112912..1132077	+	647	45551190	sv	Dmel_CG11049	-	-	shaven, isoform C
+1112912..1132077	+	680	62473244	sv	Dmel_CG11049	-	-	shaven, isoform D
+1112912..1132077	+	842	62473199	sv	Dmel_CG11049	-	-	shaven, isoform H
+1112912..1131522	+	792	62473220	sv	Dmel_CG11049	-	-	shaven, isoform F
+1112912..1131522	+	628	62473211	sv	Dmel_CG11049	-	-	shaven, isoform G
+1112912..1131511	+	794	62473231	sv	Dmel_CG11049	-	-	shaven, isoform E
+1119530..1132077	+	491	281359598	sv	Dmel_CG11049	-	-	shaven, isoform I
+1136453..1142199	-	978	17864184	cals	Dmel_CG11059	-	-	calsyntenin-1, isoform A
+1136453..1142199	-	978	24638806	cals	Dmel_CG11059	-	-	calsyntenin-1, isoform B
+1144891..1145662	+	180	17864182	Arf102F	Dmel_CG11027	-	-	ADP ribosylation factor 102F
+1147376..1156442	+	910	62484334	CG11155	Dmel_CG11155	-	-	CG11155, isoform A
+1147376..1154792	+	855	62484418	CG11155	Dmel_CG11155	-	-	CG11155, isoform B
+1147376..1152091	+	523	62484420	CG11155	Dmel_CG11155	-	-	CG11155, isoform C
+1160381..1164631	-	482	281359600	CG32017	Dmel_CG32017	-	-	CG32017, isoform B
+1160381..1164631	-	482	281359602	CG32017	Dmel_CG32017	-	-	CG32017, isoform C
+1168173..1187520	+	649	85815875	Kif3C	Dmel_CG17461	-	-	Kif3C
+1193509..1201764	-	520	17864180	pho	Dmel_CG17743	-	-	pleiohomeotic, isoform A
+1193509..1201764	-	520	24638820	pho	Dmel_CG17743	-	-	pleiohomeotic, isoform B
+1207144..1212985	+	649	62473286	CG33521	Dmel_CG33521	-	-	CG33521, isoform C
+1207144..1212985	+	663	62473274	CG33521	Dmel_CG33521	-	-	CG33521, isoform B
+1207144..1212985	+	663	62473264	CG33521	Dmel_CG33521	-	-	CG33521, isoform A
+1207144..1212985	+	649	62473255	CG33521	Dmel_CG33521	-	-	CG33521, isoform D
+1213162..1217083	-	404	85724748	CG17471	Dmel_CG17471	-	-	CG17471, isoform A
+1213162..1217083	-	404	85724746	CG17471	Dmel_CG17471	-	-	CG17471, isoform B
+1219641..1226517	+	730	85724752	Mitf	Dmel_CG17469	-	-	mitf, isoform A
+1219641..1226517	+	730	85724750	Mitf	Dmel_CG17469	-	-	mitf, isoform B
+1222921..1223325	+	134	85724754	CG41130	Dmel_CG41130	-	-	CG41130
+1229884..1233699	-	828	85724756	Dyrk3	Dmel_CG40478	-	-	Dyrk3, isoform A
+1229884..1233699	-	828	85724758	Dyrk3	Dmel_CG40478	-	-	Dyrk3, isoform B
+1229884..1233699	-	828	85724760	Dyrk3	Dmel_CG40478	-	-	Dyrk3, isoform C
+1229884..1233699	-	828	85724762	Dyrk3	Dmel_CG40478	-	-	Dyrk3, isoform D
+1229884..1233699	-	828	85724764	Dyrk3	Dmel_CG40478	-	-	Dyrk3, isoform E
+1236896..1274855	+	1529	78706460	Caps	Dmel_CG33653	-	-	calcium activated protein for secretion, isoform A
+1236896..1274855	+	1445	78706458	Caps	Dmel_CG33653	-	-	calcium activated protein for secretion, isoform B
+1236896..1260348	+	1135	78706456	Caps	Dmel_CG33653	-	-	calcium activated protein for secretion, isoform C

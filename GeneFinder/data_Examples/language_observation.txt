@@ -1,0 +1,2 @@
+> Sequence of words (without spaces)
+REMEMBEREVERREVERSEMEREVERBS

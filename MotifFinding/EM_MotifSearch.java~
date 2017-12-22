@@ -1,0 +1,70 @@
+
+public class EM_MotifSearch extends MotifSearch{
+
+
+  public EM_MotifSearch(String fileName, int motifLength) {
+  
+  }
+    
+  //The initial random seed step in the EM algorithm.
+  //For each sequence, randomly determine the start index of a motif instance in the sequence.
+
+  public void setRandomLocationsForMotifInstances() {
+  
+  }
+
+  //The Maximization step in the EM algorithm.
+  //Based on the motif instances in the sequences, creates a matrix motif model. The resulting matrix model should be updated with pseudocounts so that no entries in the matrix correspond to 0.0.
+
+  public void determineMatrixModel(){
+  
+  }
+  
+  
+  //The Expectation step in the EM algorithm.
+  //Based on the matrix model, identifies motif instances in the sequences. One motif instance is identified in each sequence. For each sequence, the motif instance that best matches the model is chosen.
+  public void determineMotifInstances(){
+  
+  }
+
+  //Given a candidate motif instance, returns the score (probability) of that instance based on the matrix model.
+  //The length of the motif instance specified by String s must be the same as the number of columns in the matrix model.
+  /*Parameters:
+   s - a String corresponding to a motif instance
+   Returns:
+   the score (probability) of the motif instance matching the matrix model
+  */
+  
+  public double getScoreForMotifInstance(String s){
+  
+  }
+
+//  Returns the information content associated with the matrix model.
+//The information content of a matrix model is described in Task 2 of Exercise 8. The method getNucleotideContent may be useful in determining the background frequency of different nucleotides.
+//
+//Returns:
+//the information content of the matrix model
+  public double getInformationContentOfMatrix(){
+  
+  }
+
+//  Executes the EM (Expectation Maximization) algorithm.
+//  Initially, the EM algorithm is randomly seeded, i.e., one motif instance is randomly chosen in each sequence. Then, the Maximization and Expectation steps are alternately repeated until convergence. The EM algorithm converges when the information content of the matrix model no longer improves.
+  public void EM(){
+  
+  }
+
+
+//  Executes the EM (Expectation Maximization) algorithm multiple times.
+//  The number of times that the algorithm is executed is specified by the integer parameter. The best motif, as determined by information content, is identified over all executions of the algorithm. Upon completion of this method, this EM_MotifSearch should correspond to the best motif (including matrix model and motif instances) identified over all executions of the algorithm.
+
+  public void run_EM_multiple_times(int iterations){
+  
+  }
+
+  public static void main(String[] args){
+  
+}
+  
+  
+}
